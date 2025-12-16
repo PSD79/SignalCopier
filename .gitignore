@@ -1,0 +1,5 @@
+venv/
+.git/
+bot.session
+__pycache__/
+errors.log
